@@ -1,0 +1,10 @@
+{"provinces": [
+    {
+        "name": "BC",
+        "population": 350000
+    },
+    {
+        "name": "Ontario",
+        "population": 888888
+    }
+]}

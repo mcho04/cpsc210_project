@@ -1,0 +1,10 @@
+{"provinces": [
+    {
+        "name": "provinceOne",
+        "population": 99999
+    },
+    {
+        "name": "province2",
+        "population": 38393
+    }
+]}
